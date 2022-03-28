@@ -2,9 +2,9 @@
 
 Here are some of my opensource projects:
 
+- [mindra](https://github.com/rorokimdim/mindra) and [mindra-clj](https://github.com/rorokimdim/mindra-clj)
 - [pp-grid](https://github.com/rorokimdim/pp-grid)
 - [stash](https://github.com/rorokimdim/stash)
-- [mindra](https://github.com/rorokimdim/mindra) and [mindra-clj](https://github.com/rorokimdim/mindra-clj)
 
 And some old but fun stuff:
 
