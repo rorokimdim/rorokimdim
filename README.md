@@ -9,4 +9,5 @@ Here are some of my opensource projects:
 And some old but fun stuff:
 
 - [malewa](https://github.com/rorokimdim/malewa)
+- [pelican](https://github.com/rorokimdim/pelican.app)
 - [stash-gui](https://github.com/rorokimdim/stash-gui)
